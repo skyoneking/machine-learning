@@ -1,0 +1,1 @@
+{"errors_train": 0.13694635691978294, "errors_valid": 0.20362946767427312, "acc_dict": {}, "theta_len": 3, "theta_fs": [{"index": 0, "filename": "module_BP/theta_0.csv"}, {"index": 1, "filename": "module_BP/theta_1.csv"}, {"index": 2, "filename": "module_BP/theta_2.csv"}]}
